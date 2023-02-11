@@ -1,0 +1,10 @@
+subscription_id = "****"
+client_id       = "****"
+client_secret   = "**"
+tenant_id       = "***"
+
+web_rg     = "web-rg"
+app_rg     = "app-rg"
+db_rg      = "db-rg"
+network_rg = "net-rg"
+location   = "eastus"
